@@ -9,7 +9,7 @@ The project simulates, analyzes, and stress-tests an A/B experiment evaluating w
 ## Landing Page Variants
 
 <p align="center">
-  <img src="images/Landing Page AB Test.png" width="500">
+  <img src="images/landing_page_example.png" width="500">
 </p>
 
 ---
@@ -88,6 +88,8 @@ Ad → Landing Page → Signup → Purchase
 │   ├── analysis.py
 │   ├── AATest.py
 │   └── config.py
+├── images/
+│   └── landing_page_example.png
 └── README.md
 ```
 
